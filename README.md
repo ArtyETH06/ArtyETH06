@@ -10,4 +10,5 @@ Here are some things about me:
 - 👨‍🎓Im currently learning **Ocaml** programming language !
 - 📈In finance since **5 years old**, mostly in **crypto📈** (pretty good trader ;))
 - 🚀Im **15 years old** and grinding for my dream school
+- **"Work hard, hack harder"**
 
