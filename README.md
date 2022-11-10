@@ -1,16 +1,13 @@
-### Hi there 👋
+## **Arty**,not like you know him 👨🏻‍💻
+### Ethic hacker👨🏻‍💻, developper💻, trader📈
 
-<!--
-**ArtyETH06/ArtyETH06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey👋! Welcome to my github ! Here i share you most of **my work**,like my CTF,codes and other cool things !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some things about me:
+
+- 💻Im a **developper** (HTML/CSS/Javascript/Python/solidty)
+- 👨‍🎓Im currently learning **Ocaml** programming language !
+- 📈In finance since **5 years old**, mostly in **crypto📈** (pretty good trader ;))
+- 🚀Im **15 years old** and grinding for my dream school
+
