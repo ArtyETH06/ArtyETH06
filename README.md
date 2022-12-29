@@ -1,4 +1,4 @@
-## **Arty**,not like you know him 👨🏻‍💻
+## **Arty**,
 ### Ethic hacker👨🏻‍💻, developper💻, trader📈
 
 
