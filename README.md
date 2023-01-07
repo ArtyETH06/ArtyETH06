@@ -15,3 +15,6 @@ Here are some things about me:
 - **"Work hard, hack harder"**
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyETH06&show_icons=true&theme=tokyonight)
+
+
