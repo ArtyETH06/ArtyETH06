@@ -3,7 +3,7 @@
 ### Ethic hacker👨🏻‍💻, developper💻, trader📈
 ![groguhacker](https://user-images.githubusercontent.com/107058122/211169914-e5d125b6-e189-43fc-8ed4-6df9c33bc726.png)
 
-- 💻Im a **developper** (HTML/CSS/Javascript/Python/solidty), learning Ocaml,C,ASM
+- 💻Im a **developper** (HTML/CSS/Javascript/Python/solidty)
 - 👨‍🎓Im currently learning **Ocaml**,**C**, and **ASM** programming languages                                       
 - 📈In finance since **5 years old**, mostly in **crypto📈** (pretty good trader ;))
 - 🚀Im **16 years old** and grinding for my dream school
