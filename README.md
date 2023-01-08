@@ -8,7 +8,7 @@
 - 📈In finance since **5 years old**, mostly in **crypto📈** (pretty good trader ;))
 - 🚀Im **16 years old** and grinding for my dream school
 - Root-me: root-me.org/Arty06
-- **"Work hard, hack harder"**
+- **"Work hard, hack harder"**, **"La root est longue,mais la voie est libre..."**
 
 
 # My Skill Set 👨‍💻 
