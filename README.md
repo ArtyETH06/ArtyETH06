@@ -11,6 +11,24 @@
 - **"Work hard, hack harder"**, **"La root est longue,mais la voie est libre..."**
 
 
+```python
+from Arty06 import *
+
+def show_my_skills():
+    skill = ["HTML","CSS","Javascripts","Python","Solidity"]
+    for i in range(len(skill)):
+        print("Hey,i do manage", skill[i])
+
+    learning = ["Ocaml","ASM","C","PHP"]
+    for i in range(len(learning)):
+        print("Hey,im currently learning", learning[i])
+
+show_my_skills()
+
+
+```
+
+
 # My Skill Set 👨‍💻 
 <table><tr><td valign="top" width="33%">
 
