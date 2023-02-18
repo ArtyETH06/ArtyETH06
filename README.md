@@ -6,7 +6,7 @@
 - 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity)
 - 👨‍🎓Im currently learning **Ocaml**,**C**, and **ASM** programming languages,just discovered **Reverse engineering**,and love it !                                       
 - 📈In finance since **5 years old**, mostly in **crypto📈** (pretty good trader ;),same as my quote is "Hodl and prosper")
-- 🚀Im **16 years old** and grinding for my dream school
+- 🚀Im **16 years old** and grinding for my dream school (EPITA Paris)
 - Root-me: root-me.org/Arty06
 - **"Work hard, hack harder"**, **"La root est longue,mais la voie est libre..."**
 
