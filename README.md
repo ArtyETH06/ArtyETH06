@@ -1,6 +1,6 @@
 
 # Whoami❓
-### Ethic hacker👨🏻‍💻, developper💻, trader📈
+### Ethical hacker👨🏻‍💻, developper💻, trader📈
 ![groguhacker](https://user-images.githubusercontent.com/107058122/211169914-e5d125b6-e189-43fc-8ed4-6df9c33bc726.png)
 
 - 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity)
