@@ -61,6 +61,9 @@ show_my_skills()
 <a href="https://codepen.com/ArtyETH06" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.linkedin.com/in/arthur-raillon-b95b21256/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
