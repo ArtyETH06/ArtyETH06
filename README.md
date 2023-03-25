@@ -70,6 +70,10 @@ show_my_skills()
 <br/>  
   
 # Github Stats📈
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArtyETH06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyETH06&show_icons=true&theme=tokyonight)
 
 
