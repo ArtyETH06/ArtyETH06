@@ -4,7 +4,7 @@
 ![groguhacker](https://user-images.githubusercontent.com/107058122/211169914-e5d125b6-e189-43fc-8ed4-6df9c33bc726.png)
 
 - 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity)
-- 👨‍🎓Im currently learning **C#**, and ** grinding on BugBounty !                                       
+- 👨‍🎓Im currently learning **C#**, and grinding to become a **red-teamer** !                                       
 - 📈In finance since **6 years old**, mostly in **crypto📈** (pretty good trader ;),same as my quote is "Hodl and prosper")
 - 🚀Im **18 years old** and grinding for my 2029 Epita Diploma
 - Root-me: root-me.org/Arty06
@@ -19,7 +19,7 @@ def show_my_skills():
     for i in range(len(skill)):
         print("Hey,i do manage", skill[i])
 
-    learning = ["Ocaml","ASM","C","PHP"]
+    learning = ["C#"]
     for i in range(len(learning)):
         print("Hey,im currently learning", learning[i])
 
