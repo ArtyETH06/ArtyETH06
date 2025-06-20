@@ -1,8 +1,6 @@
 
 # Whoami❓
 ### Ethical hacker👨🏻‍💻, developper💻, trader📈
-![groguhacker](https://user-images.githubusercontent.com/107058122/211169914-e5d125b6-e189-43fc-8ed4-6df9c33bc726.png)
-
 - 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity)
 - 👨‍🎓Im currently learning **C#**, and grinding to become a **red-teamer** !                                       
 - 📈In finance since **6 years old**, mostly in **crypto📈** (pretty good trader ;),even though my quote is "Hodl and prosper")
