@@ -2,7 +2,7 @@
 # Whoami❓
 ### Ethical hacker👨🏻‍💻, developper💻, trader📈
 - 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity)
-- 👨‍🎓Im currently learning **C#**, and grinding to become a **red-teamer** !                                       
+- 👨‍🎓Im currently learning **C**, and grinding to become a **red-teamer** !                                       
 - 📈In finance since **6 years old**, mostly in **crypto📈** (pretty good trader ;),even though my quote is "Hodl and prosper")
 - 🚀Im **18 years old** and grinding for my 2029 Epita Diploma
 - Root-me: root-me.org/Arty06
@@ -13,7 +13,7 @@
 from Arty06 import *
 
 def show_my_skills():
-    skill = ["HTML","CSS","Javascripts","Python","Solidity"]
+    skill = ["HTML","CSS","Javascripts","Python","Solidity", ]
     for i in range(len(skill)):
         print("Hey,i do manage", skill[i])
 
