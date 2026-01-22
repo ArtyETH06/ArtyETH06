@@ -6,7 +6,6 @@
 - 📈In finance since **6 years old**, mostly in **crypto📈** (pretty good trader ;),even though my quote is "Hodl and prosper")
 - 🚀Im **19 years old** and grinding for my 2029 Epita Diploma
 - Root-me: root-me.org/Arty06
-- **"Work hard, play harder"**, **"La root est longue,mais la voie est libre..."**
 
 
 ```python
