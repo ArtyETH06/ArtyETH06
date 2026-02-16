@@ -22,15 +22,6 @@ Red Team in Progress | Offensive Security | Web3 Tooling
 
 ---
 
-# 🧠 Current Focus
-
-- Active Directory attacks & privilege escalation
-- Red Team methodologies & adversary simulation
-- Custom offensive tooling (Python / C#)
-- Web3 security research & protocol analysis
-
----
-
 # 🛠 Tech Arsenal
 
 ## 💻 Languages
