@@ -1,76 +1,77 @@
+# 🛡 WhoAmI
 
-# Whoami❓
-### Ethical hacker👨🏻‍💻, developper💻, trader📈
-- 💻Im a **developper** (HTML/CSS/Javascript/Python/solidity/C/C#)
-- 👨‍🎓Grinding to become a **red-teamer** !                                       
-- 📈 Been in finance for **7 years**, mostly in **crypto📈** (pretty good trader ;),even though my quote is "Hodl and prosper")
-- 🚀Im **19 years old** and grinding for my 2029 Epita Diploma
-- Root-me: root-me.org/Arty06
-
-
-```python
-from Arty06 import *
-
-def show_my_skills():
-    skill = ["HTML","CSS","Javascripts","Python","Solidity", ]
-    for i in range(len(skill)):
-        print("Hey,i do manage", skill[i])
-
-    learning = ["C#"]
-    for i in range(len(learning)):
-        print("Hey,im currently learning", learning[i])
-
-show_my_skills()
-
-
+```bash
+Arthur Raillon — 19
+Red Team in Progress | Offensive Security | Web3 Tooling
 ```
 
+- 🛡 Offensive Security focused (Active Directory / Web Pentest)
+- 🌐 6+ years in Web3 ecosystems — DeFi, liquidity pools, DLMMs, DAAMs v2
+- 🛠 Built bots, sniping systems, farming automation & smart contracts (Solidity)
+- ⚔️ Red Team in progress — CRTP certified
+- 🎓 EPITA Paris — Class of 2029
 
-# My Skill Set 👨‍💻 
-<table><tr><td valign="top" width="33%">
+---
 
+# 🏆 Certifications
 
+- 🥇 Certified Red Team Professional (CRTP) — Altered Security
+- 🥇 Practical Web Pentest Professional (PWPP) — TCM Security
+- 🥇 Practical Web Pentest Associate (PWPA) — TCM Security
+- 🥇 Practical Junior Penetration Tester (PJPT) — TCM Security
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+# 🧠 Current Focus
 
+- Active Directory attacks & privilege escalation
+- Red Team methodologies & adversary simulation
+- Custom offensive tooling (Python / C#)
+- Web3 security research & protocol analysis
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-</table>
+# 🛠 Tech Arsenal
 
- # Connect with me 📱
-<div align="center">
-<a href="https://github.com/ArtyETH06" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/arthur-raillon-b95b21256/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://artyeth06.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Cybersecurity%20Blog-%20-%20?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 💻 Languages
+C / C# (C++ in progress)  
+Python  
+HTML  
+CSS  
+JavaScript  
+Solidity  
 
-<br/>  
-  
-# Github Stats📈
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArtyETH06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔐 Security
+Active Directory • Web Pentest • AD Attacks  
+Kali Linux • Exegol • Burp Suite • Ubuntu / Debian  
+CTI / CTH • Custom reconnaissance scanners  
 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyETH06&show_icons=true&theme=tokyonight)
+## 🌐 Web3
+Smart Contracts • DeFi Systems • Liquidity Pools  
+DLMMs • DAAMs v2 • Automation • Bots  
 
+---
 
+# 🧪 Competitive & Platforms
+
+- 🎯 Strong CTF background (Web & Offensive challenges)
+- 🏆 [RootMe](root-me.org/p/arty06) — 2605+ points
+- 🏆 [TryHackMe](https://tryhackme.com/p/Arty06) — Top 3%
+- HackTheBox (old)
+- CryptoHack (old)
+- Ozint.eu (old)
+
+---
+
+# ✈️ Beyond Cyber
+
+- 🛩 ULM Multi-axis Pilot (DGAC licensed)
+- 🏸 Regional-level badminton player
+
+---
+
+# 🌍 Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-raillon-b95b21256/)
+- 🔗 [Cybersecurity Blog](https://artyeth06.github.io)
+- 🔗 [GitHub](https://github.com/ArtyETH06)
