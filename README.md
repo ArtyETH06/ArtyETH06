@@ -1,8 +1,8 @@
 # 🛡 WHOAMI
 
 ```bash
-Arthur Raillon — 19
-Red Team in Progress | Offensive Security | Web3 Tooling
+Arty — 19
+Breaking systems. Building tools.
 ```
 
 - 🛡 Offensive Security focused (Active Directory / Web Pentest)
