@@ -40,6 +40,11 @@ Smart Contracts • DeFi Systems • Liquidity Pools
 DLMMs • DAAMs v2 • Automation • Bots  
 [Star Atlas Community Hosting Service](https://arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
 
+---
+
+# 🧰 Random Builds
+
+[Built a Non-Alphanumeric Encoder](https://non-alphanumeric-encoder.vercel.app/) — because why not.  
 
 ---
 
