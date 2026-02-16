@@ -33,7 +33,7 @@ JavaScript
 Solidity  
 
 ## 🔐 Security
-Active Directory • Web Pentest • (Learning AI & Web App pentest)
+Active Directory • Web Pentest • (Learning AI & Web App pentest)  
 Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
 CTI / CTH Methodologies
 
