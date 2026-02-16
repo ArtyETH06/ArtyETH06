@@ -8,7 +8,7 @@ Red Team in Progress | Offensive Security | Web3 Tooling
 - 🛡 Offensive Security focused (Active Directory / Web Pentest)
 - 🌐 6+ years in Web3 ecosystems — DeFi, liquidity pools, DLMMs, DAAMs v2
 - 🛠 Built bots, sniping systems, farming automation & smart contracts (Solidity)
-- ⚔️ Red Team in progress — CRTP certified
+- ⚔️ Red Team in progress
 - 🎓 EPITA Paris — Class of 2029
 
 ---
