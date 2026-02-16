@@ -1,4 +1,4 @@
-# 🛡 WhoAmI
+# 🛡 WHOAMI
 
 ```bash
 Arthur Raillon — 19
