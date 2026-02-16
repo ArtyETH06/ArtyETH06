@@ -33,9 +33,9 @@ JavaScript
 Solidity  
 
 ## 🔐 Security
-Active Directory • Web Pentest • AD Attacks  
-Kali Linux • Exegol • Burp Suite • Ubuntu / Debian  
-CTI / CTH • Custom reconnaissance scanners  
+Active Directory • Web Pentest • (Learning AI & Web App pentest) 
+Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
+CTI / CTH Methodologies
 
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
@@ -45,9 +45,9 @@ DLMMs • DAAMs v2 • Automation • Bots
 
 # 🧪 Competitive & Platforms
 
-- 🎯 Strong CTF background (Web & Offensive challenges)
 - 🏆 [RootMe](root-me.org/p/arty06) — 2605+ points
 - 🏆 [TryHackMe](https://tryhackme.com/p/Arty06) — Top 3%
+- 🎯 CTF background
 - HackTheBox (old)
 - CryptoHack (old)
 - Ozint.eu (old)
