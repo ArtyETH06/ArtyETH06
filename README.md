@@ -6,10 +6,10 @@ Breaking systems. Building tools.
 ```
 
 - 🛡 Offensive Security focused (Active Directory / Web Pentest)
-- 🌐 6+ years in Web3 ecosystems — DeFi, liquidity pools, DLMMs, DAAMs v2
-- 🛠 Built bots, sniping systems, farming automation & smart contracts (Solidity)
-- ⚔️ Red Team in progress
 - 🎓 EPITA Paris — Class of 2029
+- ⚔️ Red Team in progress
+- 🌐 6+ years building in Web3 & DeFi, focused on liquidity infrastructure and automation (Meteora DLMM / DAAMv2)
+- 🛠 Past experience developing decentralized systems, including the "DeFi Lottery" Web3 project
 
 ---
 
