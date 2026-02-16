@@ -27,9 +27,7 @@ Breaking systems. Building tools.
 ## 💻 Languages
 C / C# (C++ in progress)  
 Python  
-HTML  
-CSS  
-JavaScript  
+HTML / CSS / JS  
 Solidity  
 
 ## 🔐 Security
