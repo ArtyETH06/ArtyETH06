@@ -38,6 +38,8 @@ CTI / CTH Methodologies
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
+[Star Atlas Community Hosting Service](arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
+
 
 ---
 
