@@ -38,14 +38,14 @@ CTI / CTH Methodologies
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
-[Star Atlas Community Hosting Service](arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
+[Star Atlas Community Hosting Service](https://arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
 
 
 ---
 
 # 🧪 Competitive & Platforms
 
-- 🏆 [RootMe](root-me.org/p/arty06) — 2605+ points
+- 🏆 [RootMe](https://root-me.org/p/arty06) — 2605+ points
 - 🏆 [TryHackMe](https://tryhackme.com/p/Arty06) — Top 3%
 - 🎯 CTF background
 - HackTheBox (old)
