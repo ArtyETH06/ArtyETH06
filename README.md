@@ -50,7 +50,7 @@ DLMMs • DAAMs v2 • Automation • Bots
 
 # 🧪 Competitive & Platforms
 
-- 🏆 [RootMe](https://root-me.org/arty06) — 2605 points
+- 🏆 [RootMe](https://root-me.org/arty06) — 2645 points
 - 🏆 [TryHackMe](https://tryhackme.com/p/Arty06) — Top 3%
 - 🎯 CTF background
 - HackTheBox (old)
