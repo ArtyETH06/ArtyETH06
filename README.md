@@ -61,7 +61,7 @@ DLMMs • DAAMs v2 • Automation • Bots
 
 # ✈️ Beyond Cyber
 
-- 🛩 ULM Multi-axis Pilot (DGAC licensed)
+- 🛩 Multi-axis ULM Pilot (DGAC licensed)
 - 🏸 Regional-level badminton player
 
 ---
