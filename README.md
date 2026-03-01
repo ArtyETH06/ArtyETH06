@@ -29,6 +29,7 @@ C / C# (C++ in progress)
 Python  
 HTML / CSS / JS  
 Solidity  
+Vibecoding (like a lot)
 
 ## 🔐 Security
 Active Directory • Web Pentest • (Learning AI & Web App pentest)  
