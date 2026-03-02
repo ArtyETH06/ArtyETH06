@@ -41,7 +41,7 @@ Smart Contracts • DeFi Systems • Liquidity Pools
 DLMMs • DAAMs v2 • Automation • Bots  
 [Star Atlas Community Hosting Service](https://arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
 
-Won the 3rd place at Hunlink X Monad First Hackataton with NYX => https://nyx-finance.vercel.app/  
+Won the **3rd place** at `Unlink X Monad First Hackataton` with NYX Finance => https://nyx-finance.vercel.app/  
 
 ---
 
