@@ -32,7 +32,7 @@ Solidity
 Vibecoding (like a lot)
 
 ## 🔐 Security
-Active Directory • Web Pentest • (Learning AI & Web App pentest)  
+Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
 Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
 CTI / CTH Methodologies
 
