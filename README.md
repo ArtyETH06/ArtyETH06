@@ -71,6 +71,6 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` with **NYX Finance** 
 
 # 🌍 Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-raillon-b95b21256/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arty06/)
 - 🔗 [Cybersecurity Blog](https://artyeth06.github.io)
 - 🔗 [GitHub](https://github.com/ArtyETH06)
