@@ -74,4 +74,5 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arty06/)
 - 🔗 [Cybersecurity Blog](https://artyeth06.github.io)
+- 🔗 [Twitter / X](https://x.com/Arty_revo)
 - 🔗 [GitHub](https://github.com/ArtyETH06)
