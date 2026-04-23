@@ -39,6 +39,7 @@ CTI / CTH Methodologies
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
+Co-founder @ [RevolutionPad](x.com/RevolutionPad)  
 [Star Atlas Community Hosting Service](https://arty-hosting-service.vercel.app) • Discord Bots (Guild Tooling)
 
 Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => https://nyx-finance.vercel.app/  
