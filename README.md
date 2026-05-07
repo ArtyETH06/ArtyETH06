@@ -29,7 +29,7 @@ C / C# (C++ in progress)
 Python  
 HTML / CSS / JS  
 Solidity  
-But mainly Vibecoding 
+But let's be honest I'm 99.99% Vibecoding  
 
 ## 🔐 Security
 Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
