@@ -49,8 +49,7 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026)
 
 # 🧰 Random Builds
 
-[Built a Non-Alphanumeric Encoder](https://non-alphanumeric-encoder.vercel.app/) — because why not.  
-
+Meteora Devnet but just to get the swap working => https://cometora-zeta.vercel.app/  
 ---
 
 # 🧪 Competitive & Platforms
