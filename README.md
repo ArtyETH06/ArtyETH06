@@ -40,7 +40,7 @@ CTI / CTH Methodologies
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
 Co-founder @ [RevolutionPad](https://x.com/RevolutionPad)  
-[Star Atlas Community Hosting Service](https://arty-hosting-service.vercel.app) (+99% uptime over 6 months) • Discord Bots (Guild Tooling)
+[Star Atlas Community Hosting Service](https://hosting.arty-industries.site) (+99% uptime over 6 months) • Discord Bots (Guild Tooling)
 
 Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => https://nyx-finance.vercel.app/  
 [NYX Finance - Presentation](https://youtu.be/4sJkl_3XgEc)
@@ -49,7 +49,7 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026)
 
 # 🧰 Random Builds
 
-Meteora Devnet but just to get the swap working => https://cometora-zeta.vercel.app/  
+Meteora Devnet but just to get the swap working => https://cometora.arty-industries.site  
 
 ---
 
