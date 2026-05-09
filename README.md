@@ -74,6 +74,7 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 # 🌍 Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arty06/)
+- 🔗 [Arty Industries](https://arty-industries.site)
 - 🔗 [Cybersecurity Blog](https://artyeth06.github.io)
 - 🔗 [Twitter / X](https://x.com/Arty_revo)
 - 🔗 [GitHub](https://github.com/ArtyETH06)
