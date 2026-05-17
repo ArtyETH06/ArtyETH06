@@ -45,9 +45,12 @@ Co-founder @ [RevolutionPad](https://x.com/RevolutionPad)
 Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => https://nyx-finance.vercel.app/  
 [NYX Finance - Presentation](https://youtu.be/4sJkl_3XgEc)
 
+## 🤖 AI
+Experimenting what's possible with [TheAIgentsCompany](https://github.com/TheAIgentsCompany)  
+
 ---
 
-# 🧰 Random Builds
+ 🧰 Random Builds
 
 Meteora Devnet but just to get the swap working => https://cometora.arty-industries.site  
 
