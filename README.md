@@ -50,7 +50,7 @@ Experimenting what's possible with [TheAIgentsCompany](https://github.com/TheAIg
 
 ---
 
- 🧰 Random Builds
+## 🧰 Random Builds
 
 Meteora Devnet but just to get the swap working => https://cometora.arty-industries.site  
 
