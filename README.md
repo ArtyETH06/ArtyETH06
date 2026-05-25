@@ -47,6 +47,7 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026)
 
 ## 🤖 AI
 Experimenting what's possible with [TheAIgentsCompany](https://github.com/TheAIgentsCompany)  
+Working as a Full Stack AI/ML Engineer intern @ [Leadbay](https://github.com/Leadbay)
 
 ---
 
