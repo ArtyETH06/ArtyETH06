@@ -25,11 +25,11 @@ Breaking systems. Building tools.
 # 🛠 Tech Arsenal
 
 ## 💻 Languages
-C / C# (C++ in progress)  
+C / C# (very small C++)  
 Python  
 HTML / CSS / JS  
 Solidity  
-But let's be honest I'm 99.99% Vibecoding  
+But what's important is that I know how to orchestrate / work wwth AIgents  
 
 ## 🔐 Security
 Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
