@@ -29,7 +29,7 @@ C / C# (very small C++)
 Python  
 HTML / CSS / JS  
 Solidity  
-But what's important is that I know how to orchestrate / work wwth AIgents  
+**But what's important is that I know how to orchestrate / work with AIgents**  
 
 ## 🔐 Security
 Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
