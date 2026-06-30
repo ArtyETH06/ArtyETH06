@@ -59,12 +59,19 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 
 # 🧪 Competitive & Platforms
 
-- 🏆 <a href="https://root-me.org/arty06" target="_blank" rel="noopener noreferrer">RootMe</a> — 2700 points
-- 🏆 <a href="https://tryhackme.com/p/Arty06" target="_blank" rel="noopener noreferrer">TryHackMe</a> — Top 3%
-- 🎯 CTF background
-- HackTheBox (old)
-- CryptoHack (old)
-- Ozint.eu (old)
+### 🌐 Platforms
+
+* 🏆 <a href="https://root-me.org/arty06">RootMe</a> — 2700+ points
+* 🏆 <a href="https://tryhackme.com/p/Arty06">TryHackMe</a> — Top 3%  
+
+
+### 🎯 CTF
+
+* 🏆 **3× LeHack Wargame Podium**
+
+  * 🥈 Top 2 — 2025 (Team **EternalBlue**)
+  * 🥉 Top 3 — 2024 (Team **ShellTroopers**)
+  * 🥈 Top 2 — 2023 (Team **Everyone**)
 
 ---
 
