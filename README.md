@@ -39,15 +39,15 @@ CTI / CTH Methodologies
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
-Co-founder @ [RevolutionPad](https://x.com/RevolutionPad)  
-[Star Atlas Community Hosting Service](https://hosting.arty-industries.site) (+99% uptime over 6 months) • Discord Bots (Guild Tooling)
+Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener noreferrer">RevolutionPad</a>  
+<a href="https://hosting.arty-industries.site" target="_blank" rel="noopener noreferrer">Star Atlas Community Hosting Service</a> (+99% uptime over 6 months) • Discord Bots (Guild Tooling)  
 
-Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => https://nyx-finance.vercel.app/  
-[NYX Finance - Presentation](https://youtu.be/4sJkl_3XgEc)
+Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
+<a href="https://youtu.be/4sJkl_3XgEc" target="_blank" rel="noopener noreferrer">NYX Finance - Presentation</a>  
 
 ## 🤖 AI
-Experimenting what's possible with [TheAIgentsCompany](https://github.com/TheAIgentsCompany)  
-Working as a Full Stack AI/ML Engineer intern @ [Leadbay](https://github.com/Leadbay)
+Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
+Working as a Full Stack AI/ML Engineer intern @ <a href="https://github.com/Leadbay" target="_blank" rel="noopener noreferrer">Leadbay</a>  
 
 ---
 
@@ -59,8 +59,8 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 
 # 🧪 Competitive & Platforms
 
-- 🏆 [RootMe](https://root-me.org/arty06) — 2700 points
-- 🏆 [TryHackMe](https://tryhackme.com/p/Arty06) — Top 3%
+- 🏆 <a href="https://root-me.org/arty06" target="_blank" rel="noopener noreferrer">RootMe</a> — 2700 points
+- 🏆 <a href="https://tryhackme.com/p/Arty06" target="_blank" rel="noopener noreferrer">TryHackMe</a> — Top 3%
 - 🎯 CTF background
 - HackTheBox (old)
 - CryptoHack (old)
@@ -77,8 +77,9 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 
 # 🌍 Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arty06/)
-- 🔗 [Arty Industries](https://arty-industries.site)
-- 🔗 [Cybersecurity Blog](https://artyeth06.github.io)
-- 🔗 [Twitter / X](https://x.com/Arty_revo)
-- 🔗 [GitHub](https://github.com/ArtyETH06)
+- 🔗 <a href="https://www.linkedin.com/in/arty06/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 🔗 <a href="https://arty-industries.site" target="_blank" rel="noopener noreferrer">Arty Industries</a>
+- 🔗 <a href="https://artyeth06.github.io" target="_blank" rel="noopener noreferrer">Cybersecurity Blog</a>
+- 🔗 <a href="https://x.com/Arty_revo" target="_blank" rel="noopener noreferrer">Twitter / X</a>
+- 🔗 <a href="https://github.com/ArtyETH06" target="_blank" rel="noopener noreferrer">GitHub</a>
+
