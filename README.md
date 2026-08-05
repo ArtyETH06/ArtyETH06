@@ -5,6 +5,7 @@ Arty — 19
 Breaking systems. Building tools.
 ```
 
+- 🤖 Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
 - 🛡 Offensive Security focused (Active Directory / Web Pentest)
 - 🎓 EPITA Paris — Class of 2029
 - ⚔️ Red Team in progress
