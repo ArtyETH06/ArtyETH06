@@ -4,9 +4,7 @@
 Arty — 19
 Breaking systems. Building tools.
 ```
-
-- 🤖 Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
-- 🛡 Offensive Security focused (Active Directory / Web Pentest)
+- 🛡 Offensive Security focused (Active Directory / Web Pentest)  
 - 🎓 EPITA Paris — Class of 2029
 - ⚔️ Red Team in progress
 - 🌐 6+ years active in Web3 & crypto ecosystems, building DeFi automation and liquidity tooling (Meteora DLMM / DAAMv2)
@@ -48,7 +46,7 @@ Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026)
 
 ## 🤖 AI
 Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
-Worked as a Full Stack AI/ML Engineer intern @ <a href="https://github.com/Leadbay" target="_blank" rel="noopener noreferrer">Leadbay</a> in San Francisco
+Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
 
 ---
 
