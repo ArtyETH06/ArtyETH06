@@ -2,13 +2,13 @@
 
 ```bash
 Arty — 19
-Breaking systems. Building tools.
+Breaking systems. Building tools. Automating everything in between.
 ```
-- 🛡 Offensive Security focused (Active Directory / Web Pentest)  
 - 🎓 EPITA Paris — Class of 2029
-- ⚔️ Red Team in progress
+- 🛡 Cybersecurity background — Offensive Security / Active Directory / Web Pentest
+- 🤖 AI Engineering — agents, MCP, automation & applied AI
 - 🌐 6+ years active in Web3 & crypto ecosystems, building DeFi automation and liquidity tooling (Meteora DLMM / DAAMv2)
-
+- 🚀 I like understanding how things work, breaking them when needed, and building better ones
 
 ---
 
