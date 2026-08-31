@@ -7,7 +7,7 @@ Breaking systems. Building tools. Automating everything in between.
 - 🎓 EPITA Paris — Class of 2029
 - 🛡 Cybersecurity background — Offensive Security / Active Directory / Web Pentest
 - 🤖 AI Engineering — agents, MCP, automation & applied AI
-- 🌐 6+ years active in Web3 & crypto ecosystems, building DeFi automation and liquidity tooling (Meteora DLMM / DAAMv2)
+- 🌐 6+ years active in Web3 & crypto ecosystems, building DeFi automation and liquidity tooling (Meteora DLMM / DAAM v2)
 - 🚀 I like understanding how things work, breaking them when needed, and building better ones
 
 ---
@@ -45,10 +45,10 @@ Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
 DLMMs • DAAMs v2 • Automation • Bots  
-Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener noreferrer">RevolutionPad</a> (Abandonned)  
+Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener noreferrer">RevolutionPad</a> (discontinued)  
 <a href="https://hosting.arty-industries.site" target="_blank" rel="noopener noreferrer">Star Atlas Community Hosting Service</a> (+99% uptime over 1 year) • Discord Bots (Guild Tooling)  
 
-Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) (solo-building) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
+Won **3rd place** at `Unlink X Monad First Hackathon` (New York, March 2026) (built solo) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
 <a href="https://youtu.be/4sJkl_3XgEc" target="_blank" rel="noopener noreferrer">NYX Finance - Presentation</a>  
 
 ---
@@ -77,7 +77,7 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 
 ---
 
-# ✈️ Beyond Cyber
+# ✈️ Beyond Tech
 
 - 🛩 Multi-axis ULM Pilot (DGAC licensed)
 - 🏸 Regional-level badminton player
