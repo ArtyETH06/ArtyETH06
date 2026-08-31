@@ -39,16 +39,16 @@ CTI / CTH Methodologies
 ## 🤖 AI
 MCP • AI Agents • LLM Tooling • Workflow Automation  
 Forward Deployed Engineering • Client-facing technical work  
-Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)  
+Worked as a Full-Stack AI/ML Engineer Intern @ Leadbay (YC F25, Summer 2026, SF)  
 Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
 
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
-DLMMs • DAAMs v2 • Automation • Bots  
+DLMMs • DAAM v2 • Automation • Bots  
 Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener noreferrer">RevolutionPad</a> (discontinued)  
 <a href="https://hosting.arty-industries.site" target="_blank" rel="noopener noreferrer">Star Atlas Community Hosting Service</a> (+99% uptime over 1 year) • Discord Bots (Guild Tooling)  
 
-Won **3rd place** at `Unlink X Monad First Hackathon` (New York, March 2026) (built solo) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
+Won **3rd place** at `Unlink × Monad First Hackathon` (New York, March 2026) (built solo) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
 <a href="https://youtu.be/4sJkl_3XgEc" target="_blank" rel="noopener noreferrer">NYX Finance - Presentation</a>  
 
 ---
