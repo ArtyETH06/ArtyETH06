@@ -32,7 +32,7 @@ Being patient with Claude
 **But most importantly, I know how to orchestrate / work with AIgents**  
 
 ## 🔐 Security
-Active Directory • Web Pentest
+Active Directory • Web Pentest  
 Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
 CTI / CTH Methodologies
 
