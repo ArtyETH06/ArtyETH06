@@ -32,7 +32,7 @@ Being patient with Claude
 **But most importantly, I know how to orchestrate / work with AIgents**  
 
 ## 🔐 Security
-Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
+Active Directory • Web Pentest
 Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
 CTI / CTH Methodologies
 
@@ -48,7 +48,7 @@ DLMMs • DAAMs v2 • Automation • Bots
 Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener noreferrer">RevolutionPad</a> (Abandonned)  
 <a href="https://hosting.arty-industries.site" target="_blank" rel="noopener noreferrer">Star Atlas Community Hosting Service</a> (+99% uptime over 1 year) • Discord Bots (Guild Tooling)  
 
-Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
+Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) (solo-building) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
 <a href="https://youtu.be/4sJkl_3XgEc" target="_blank" rel="noopener noreferrer">NYX Finance - Presentation</a>  
 
 ---
