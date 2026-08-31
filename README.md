@@ -39,7 +39,7 @@ CTI / CTH Methodologies
 ## 🤖 AI
 MCP • AI Agents • LLM Tooling • Workflow Automation  
 Forward Deployed Engineering • Client-facing technical work  
-Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
+Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)  
 Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
 
 ## 🌐 Web3
