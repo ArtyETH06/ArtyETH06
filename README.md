@@ -28,12 +28,19 @@ C / C# (very small C++)
 Python  
 HTML / CSS / JS  
 Solidity  
+Being patient with Claude  
 **But most importantly, I know how to orchestrate / work with AIgents**  
 
 ## 🔐 Security
 Active Directory • Web Pentest • (Learning AI & Mobile App pentest)  
 Linux (Ubuntu / Kali / "Exegol") • Burp Suite  
 CTI / CTH Methodologies
+
+## 🤖 AI
+MCP • AI Agents • LLM Tooling • Workflow Automation  
+Forward Deployed Engineering • Client-facing technical work  
+Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
+Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
 
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
@@ -43,10 +50,6 @@ Co-founder @ <a href="https://x.com/RevolutionPad" target="_blank" rel="noopener
 
 Won the **3rd place** at `Unlink X Monad First Hackataton` (New York March 2026) with **NYX Finance** => <a href="https://nyx-finance.vercel.app/" target="_blank" rel="noopener noreferrer">NYX Finance</a>   
 <a href="https://youtu.be/4sJkl_3XgEc" target="_blank" rel="noopener noreferrer">NYX Finance - Presentation</a>  
-
-## 🤖 AI
-Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
-Worked as a Full Stack AI/ML Engineer intern @ Leadbay (YC F25, Summer 2026, SF)
 
 ---
 
