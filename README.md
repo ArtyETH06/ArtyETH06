@@ -4,11 +4,17 @@
 Arty — 19
 Breaking systems. Building tools. Automating everything in between.
 ```
-- 🎓 EPITA Paris — Class of 2029
-- 🛡 Cybersecurity background — Offensive Security / Active Directory / Web Pentest
-- 🤖 AI Engineering — agents, MCP, automation & applied AI
-- 🌐 6+ years active in Web3 & crypto ecosystems, building DeFi automation and liquidity tooling (Meteora DLMM / DAAM v2)
-- 🚀 I like understanding how things work, breaking them when needed, and building better ones
+🎓 Engineering Student @ **EPITA** — Class of 2029  
+🛡️ Cybersecurity Apprentice @ **Thales** — Security Auditing & Penetration Testing  
+🤖 Building with **AI, agents, MCP & automation**  
+🌐 Building in **Web3 / DeFi** for 6+ years  
+
+## What I'm into
+
+- ⚔️ Offensive Security — Active Directory, Web Security, Pentesting & CTFs
+- 🤖 AI Engineering — Agents, MCP  & Applied AI
+- 🌐 Web3 — DeFi Automation, Meteora DLMM / DAMM v2 & Liquidity Tooling
+- ⚙️ Automation — If I have to do it twice, I'll probably automate it
 
 ---
 
