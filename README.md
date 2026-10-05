@@ -69,7 +69,7 @@ Meteora Devnet but just to get the swap working => https://cometora.arty-industr
 
 ### 🌐 Platforms
 
-* 🏆 <a href="https://root-me.org/arty06">RootMe</a> — 2700+ points
+* 🏆 <a href="https://root-me.org/arty06">RootMe</a> — 3000+ points
 * 🏆 <a href="https://tryhackme.com/p/Arty06">TryHackMe</a> — Top 3%  
 
 
