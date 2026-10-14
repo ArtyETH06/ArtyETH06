@@ -6,7 +6,7 @@ Breaking systems. Building tools. Automating everything in between.
 ```
 🎓 Engineering Student @ **EPITA** — Class of 2029  
 🛡️ Cybersecurity Apprentice @ **Thales** — Security Auditing & Penetration Testing  
-🤖 Building with **AI, agents, MCP & automation**  
+🤖 Building with **AIagents**  
 🌐 Building in **Web3 / DeFi** for 6+ years  
 
 ## What I'm into
