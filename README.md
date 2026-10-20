@@ -14,7 +14,6 @@ Breaking systems. Building tools. Automating everything in between.
 - ⚔️ Offensive Security — Active Directory, Web Security, Pentesting & CTFs
 - 🤖 AI Engineering — Agents, MCP  & Applied AI
 - 🌐 Web3 — DeFi Automation, Meteora DLMM / DAMM v2 & Liquidity Tooling
-- ⚙️ Automation — If I have to do it twice, I'll probably automate it
 
 ---
 
