@@ -45,7 +45,7 @@ CTI / CTH Methodologies
 MCP • AI Agents • LLM Tooling • Workflow Automation  
 Forward Deployed Engineering • Client-facing technical work  
 Worked as a Full-Stack AI/ML Engineer Intern @ Leadbay (YC F25, Summer 2026, SF)  
-Experimenting what's possible with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
+Had fun one day with <a href="https://github.com/TheAIgentsCompany" target="_blank" rel="noopener noreferrer">TheAIgentsCompany</a>  
 
 ## 🌐 Web3
 Smart Contracts • DeFi Systems • Liquidity Pools  
